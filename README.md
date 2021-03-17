@@ -5,4 +5,4 @@ In a dataset given by an Asset Management Company that wants to make investments
 # Usage:
 The python notebook attached contains the analysis done with final recommendations. The dataset has also been attached. Download and execute.
 # Observations:
-![alt text](https://github.com/Adhithia/Investment-Strategy-Indicator-Analysis/img1.png)
+<img src="https://github.com/Adhithia/Investment-Strategy-Indicator-Analysis/blob/bbb41c2e8618f49546c48a74f2b7f7a8b6b205ba/img1.png">
