@@ -6,5 +6,5 @@ In a dataset given by an Asset Management Company that wants to make investments
 The python notebook attached contains the analysis done with final recommendations. The dataset has also been attached. Download and execute.
 # Observations:
 <img src="https://raw.githubusercontent.com/Adhithia/Investment-Strategy-Indicator-Analysis/main/img1.png?token=AHP5GUSB3SX76RF6L6AMEYTAKIFE2">
-<img src="https://raw.githubusercontent.com/Adhithia/Investment-Strategy-Indicator-Analysis/main/img2.png?token=AHP5GUUVVCLUZR7RAHAOPTLAKIFNK>
-<img src="https://raw.githubusercontent.com/Adhithia/Investment-Strategy-Indicator-Analysis/main/img3.png?token=AHP5GUUBPAWPKTWA735K733AKIFLO>
+<img src="https://raw.githubusercontent.com/Adhithia/Investment-Strategy-Indicator-Analysis/main/img2.png?token=AHP5GUUVVCLUZR7RAHAOPTLAKIFNK">
+<img src="https://raw.githubusercontent.com/Adhithia/Investment-Strategy-Indicator-Analysis/main/img3.png?token=AHP5GUUBPAWPKTWA735K733AKIFLO">
